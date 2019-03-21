@@ -1,0 +1,4 @@
+./.vscode
+./biuld
+./docker_help.egg-info
+./dist

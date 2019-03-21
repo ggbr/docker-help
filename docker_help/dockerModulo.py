@@ -7,6 +7,6 @@ class DockerModulo:
         self.client = docker.from_env()
 
     def lista_conteiner(self):
-        return lista_conteiner =  self.client.containers.list(all=True)
+        return   self.client.containers.list(all=True)
 
         
